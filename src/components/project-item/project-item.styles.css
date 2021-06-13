@@ -1,0 +1,17 @@
+.project-item {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 50px 20px;
+}
+
+.image {
+    width: 50%;
+    padding: 5px;
+}
+
+.project-text {
+    width: 50%;
+    padding: 30px;
+}
+
